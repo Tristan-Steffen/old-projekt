@@ -1,0 +1,60 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+BuildPlayerData/
+
+# Visual Studio / JetBrains Rider
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+.vscode/
+.idea/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Unity cache and store
+.assetStore/
+assetStore/
+*.unitypackage
+
+# Backups and collisions
+*.bak
+*.old
+*.orig
+*.swp
+*.lock
+*.log
+
+# Crashlytics (if used)
+crashlytics-build.properties
+
+# Git LFS
+*.psd
+*.fbx
+*.png
+*.jpg
+*.tga
+*.mp4
+*.wav
+*.mp3
+*.aif
+*.mov
+
+# Collaboration and cloud
+.collab/
